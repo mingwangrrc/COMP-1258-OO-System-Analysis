@@ -3,30 +3,33 @@
 ## Introduction
 Welcome to the COMP-1258-OO-System Analysis Course Repository. This repository serves as a comprehensive resource for students enrolled in the COMP-1258 course, focusing on Object-Oriented System Analysis techniques and methodologies.
 
-## Course Description
-COMP-1258 is an intensive course designed to equip students with the fundamental concepts and skills needed in object-oriented system analysis. The course covers various aspects such as requirement gathering, UML modeling, system design principles, and the transition from analysis to design in the development process.
-
 ## Important Notes
-- **Educational Use**: This repository is intended strictly for educational purposes, providing a supplementary resource to enhance learning and understanding of OO system analysis concepts.
-- **Academic Integrity**: Students are encouraged to use this repository responsibly. Directly copying material for academic submissions is strictly prohibited and can lead to severe academic penalties. Strive for understanding and apply the knowledge to your work independently.
+- **For Review and Understanding Only**: The codes in this repository are intended for review purposes and to give a basic idea of how the assignments are structured. They are not meant to be copied directly for your assignments.
+- **Academic Integrity**: It's crucial to adhere to your institution's academic integrity policy when utilizing this repository. Directly copying code for your assignments can result in severe academic consequences.
 
 ## Disclaimer
-The owner of this repository disclaims any liability for misuse of the materials provided and does not take responsibility for any academic misconduct that might arise from improper use. It's the user's responsibility to adhere to their academic institution's integrity policies.
+- The information and code in this repository are provided for educational purposes only. The owner of this repository does not condone plagiarism or academic dishonesty.
+- **I do not take any responsibility if copying my code leads to academic issues, including receiving a grade of 0 or other sanctions.** It's your responsibility to use these resources ethically and within the guidelines of your academic institution.
+- While effort is made to keep the repository up-to-date, the owner does not guarantee the accuracy or completeness of the code.
 
 ## Repository Structure
-- **Assignments**: Brief overviews and resources related to course assignments (Note: Solutions are not provided to uphold academic integrity).
-- **Case Studies**: Examples of real-world applications of OO system analysis to understand practical implications.
-- **Study Guides**: Additional resources and guides to aid in understanding and applying OO system analysis principles.
+Each directory within this repository corresponds to a specific assignment from the COMP-1258 course. Inside, you'll find the code files along with a brief description of the assignment.
 
 ## Usage
-- **Explore**: Browse through the materials to get a comprehensive understanding of OO system analysis.
-- **Study**: Use the provided lecture notes, case studies, and study guides as a reference for your coursework and exam preparation.
-- **Contribute**: If you've completed the course and have insights or additional resources to share, please adhere to the contribution guidelines.
+1. **Explore**: Feel free to browse the directories and examine the code to understand how different problems are approached and solved.
+2. **Learn**: Use the code as a reference to learn new techniques and methodologies that you might apply to your own work.
+3. **Do Not Copy**: Remember, the purpose of these assignments is to challenge and improve your coding skills. Use them for learning, not copying.
 
-## Contribution Guidelines
-Contributions should be informative, relevant, and maintain the academic integrity of the repository. Direct answers to assignment questions are not allowed. Consider contributing study tips, additional case studies, or improved explanations of complex concepts.
+## Contributions
+If you've taken the COMP-1258 course and wish to contribute to this repository, please ensure your contributions adhere to the following:
+- **No Direct Answers**: Do not provide direct answers to assignment questions.
+- **Guidance Only**: Provide guidance, best practices, and learning tips instead.
+- **Quality**: Ensure your code is readable, well-commented, and follows good coding practices.
+
+## Disclaimer
+The owner of this repository is not responsible for any academic misconduct that arises from the misuse of the code provided. It is your responsibility to use these resources ethically and within the guidelines of your academic institution.
 
 ## Contact
-If you have any questions or suggestions regarding this repository, or if you wish to report an issue, please feel free to [open an issue](link-to-your-repository-issues-section).
+If you have any questions or suggestions regarding this repository, please feel free to [open an issue](link-to-your-repository-issues-section).
 
-Thank you for visiting this repository. We hope it aids you in your journey through COMP-1258 OO System Analysis!
+Thank you for visiting and happy learning!
